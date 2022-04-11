@@ -1,0 +1,1 @@
+[{"title":"lampara","price":500,"thumbnail":"https://lampara.jpg","id":0},{"title":"bicicleta","price":5000,"thumbnail":"https://bicicleta.jpg","id":1},{"title":"moto","price":10000,"thumbnail":"https://moto.jpg","id":2},{"title":"horno","price":1000,"thumbnail":"https://horno.jpg","id":3}]
